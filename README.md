@@ -1,8 +1,11 @@
 # d3-bar-chart-walkthrough
 
-This is a simple project to demonstrate the basics of D3.js to build
-a bar chart. The project is designed for the reader to jump to specific
-points in the build.
+This is a simple project to demonstrate the basics of
+the [D3 Library](https://d3js.org/) by building a bar-chart. The project is
+designed for the reader to jump to specific points in the build to either
+learn from scratch or jump to specific concepts.
+
+[Repository (Github)](https://github.com/VincentPauley/d3-bar-chart-walkthrough/tree/master)
 
 ## Project setup
 
